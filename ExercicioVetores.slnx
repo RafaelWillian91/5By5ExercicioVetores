@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Exercicio02/Exercicio02.csproj" />
   <Project Path="Exercicio03 - VetorFibonacci/Exercicio03 - VetorFibonacci.csproj" />
+  <Project Path="Exercicio04 - VetorTabelaAsc/Exercicio04 - VetorTabelaAsc.csproj" />
   <Project Path="ExercicioVetores/ExercicioVetores.csproj" />
 </Solution>
